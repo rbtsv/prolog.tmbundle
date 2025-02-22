@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>fileTypes</key>
-	<array/>
+	<array>
+        	<string>pl</string>
+        	<string>pro</string>
+        	<string>prolog</string>
+   	</array>
 	<key>keyEquivalent</key>
 	<string>^~P</string>
 	<key>name</key>
